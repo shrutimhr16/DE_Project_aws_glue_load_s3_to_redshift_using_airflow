@@ -14,7 +14,7 @@ Power BI
 
 <h3>Dags</h3>
 Step 1 --> Create a landing zone bucket on S3 on which csv files will arrive.
-![image](https://github.com/shrutimhr16/DE_Project_aws_glue_load_s3_to_redshift_using_airflow/assets/42519482/dcc3f7fc-ce7e-400b-816d-1880c64c5001)
+<img width="1254" alt="Screenshot 2024-02-12 at 7 07 15 PM" src="https://github.com/shrutimhr16/DE_Project_aws_glue_load_s3_to_redshift_using_airflow/assets/42519482/b826359b-9241-4590-865f-d8c37539cf44">
 
 Step 2 --> Create crawlers which crawls amazon s3 and another which crawls redshift tables and loads data accordingly to catalog tables.
 <img width="1119" alt="Screenshot 2024-02-12 at 7 33 14 PM" src="https://github.com/shrutimhr16/DE_Project_aws_glue_load_s3_to_redshift_using_airflow/assets/42519482/5f805175-c563-4ba4-9c0f-bfe76cc54b20">
@@ -28,6 +28,7 @@ Step 4 --> Launch an EC2 instance and download Airflow. Place dag file in airflo
 <img width="1271" alt="Screenshot 2024-02-12 at 7 08 28 PM" src="https://github.com/shrutimhr16/DE_Project_aws_glue_load_s3_to_redshift_using_airflow/assets/42519482/f7360501-1eea-46ba-b42f-3ead2dbcf6f7">
 
  Final Output:
- ![Uploading Screenshot 2024-02-12 at 7.09.26 PM.png…]()
+ 
+<img width="1207" alt="Screenshot 2024-02-12 at 7 09 26 PM" src="https://github.com/shrutimhr16/DE_Project_aws_glue_load_s3_to_redshift_using_airflow/assets/42519482/cd990079-66fd-4b73-a4a2-5b3976a16e20">
 
 
