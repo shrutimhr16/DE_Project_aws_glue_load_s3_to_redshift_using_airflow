@@ -1,0 +1,2 @@
+# DE_Project_aws_glue_load_s3_to_redshift_using_airflow
+aws_glue_load_s3_to_redshift_airflow
